@@ -61,6 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				tetris: {
+					i: 'hsl(var(--tetris-i))',
+					o: 'hsl(var(--tetris-o))',
+					t: 'hsl(var(--tetris-t))',
+					s: 'hsl(var(--tetris-s))',
+					z: 'hsl(var(--tetris-z))',
+					j: 'hsl(var(--tetris-j))',
+					l: 'hsl(var(--tetris-l))',
+					ghost: 'hsl(var(--tetris-ghost))'
 				}
 			},
 			borderRadius: {
